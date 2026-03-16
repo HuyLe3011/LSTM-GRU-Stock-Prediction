@@ -12,11 +12,6 @@ This repository contains the source code and datasets for my Graduation Thesis. 
 * **Data Processing:** Pandas, NumPy, Scikit-learn (MinMaxScaler)
 * **Financial Data API:** `vnstock`
 
-## 📊 Model Performance & Results
-*(Update later: Insert a screenshot of your Matplotlib prediction vs actual charts here)*
-
-The hybrid LSTM-GRU model successfully captures both short-term volatility and long-term trends, demonstrating robust predictive accuracy on out-of-sample data across different market regimes.
-
 ## ⚙️ How to Run
 1. Clone this repository:
 ```bash
